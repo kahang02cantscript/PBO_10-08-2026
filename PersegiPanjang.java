@@ -1,4 +1,4 @@
-package Latihan;
+
 public class PersegiPanjang {
     double panjang, lebar;
 
