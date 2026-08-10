@@ -1,3 +1,4 @@
+package Latihan_obj_class;
 
 public class PersegiPanjang {
     double panjang, lebar;
