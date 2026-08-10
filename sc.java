@@ -1,5 +1,6 @@
 public class sc {
     static void main(String args[]){
-        System.out.print("hi");
+        System.out.println("hi");
+        System.out.println("hello");
     }
 }
